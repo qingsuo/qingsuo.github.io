@@ -1,0 +1,85 @@
+{
+  "data": {
+    "title": "汉语拼音字母表",
+    "letters": {
+      "shengMu": {
+        "name": "声母",
+        "list": [
+          "b",
+          "p",
+          "m",
+          "f",
+          "d",
+          "t",
+          "n",
+          "l",
+          "g",
+          "k",
+          "h",
+          "j",
+          "q",
+          "x",
+          "zh",
+          "ch",
+          "sh",
+          "r",
+          "z",
+          "c",
+          "s",
+          "y",
+          "w"
+        ]
+      },
+      "yunMu": {
+      "name": "韵母",
+      "list": [
+          "a",
+          "o",
+          "e",
+          "i",
+          "u",
+          "ü",
+          "ai",
+          "ei",
+          "ui",
+          "ao",
+          "ou",
+          "iu",
+          "ie",
+          "üe",
+          "er",
+          "an",
+          "en",
+          "in",
+          "un",
+          "ün",
+          "ang",
+          "eng",
+          "ing",
+          "ong"
+        ]
+      },
+      "zhengTi": {
+      "name": "整体认读",
+      "list": [
+          "zhi",
+          "chi",
+          "shi",
+          "ri",
+          "zi",
+          "ci",
+          "si",
+          "wu",
+          "yi",
+          "yu",
+          "ye",
+          "yue",
+          "yuan",
+          "yin",
+          "yun",
+          "ying"
+        ]
+      }
+    }
+  }
+}
